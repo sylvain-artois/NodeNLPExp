@@ -1,0 +1,18 @@
+{
+  "name": "shtml-linker",
+  "version": "1.0.0",
+  "description": "Link linkbooster url",
+  "main": "index.js",
+  "dependencies": {
+    "fast-csv": "^0.6.0"
+  },
+  "devDependencies": {
+
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etsy France",
+  "license": "ISC"
+}
